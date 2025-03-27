@@ -1,50 +1,43 @@
-<h1 align="center"> Habits </h1>
+# Habits
 
-<p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+##   Projeto feito com Javascript. Ao clicar em "Adicionar nota", uma modal é aberta e é possível escolher se quer gravar uma nota em áudio que será convertida em texto, ou digitá-la diretamente. Após isso ela ficará salva mesmo após o recarregamento da página, e você pode filtrar os resultados para encontrar uma nota específica.
 
-</p>
+<div align="center">
+   <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+</div>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+# Funcionalidades
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+* Adicionar produto na tabela
 
-<br>
+* Excluir produto
 
-<p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
-</p>
+* Toasts de notificação
 
-## 🚀 Tecnologias
+# Tecnologias Utilizadas
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+* JavaScript - Para lógica de programação e interação 
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+* CSS - Para estilização da interface
 
-## 💻 Projeto
+# Conceitos Abordados
 
-O Habits é um app para ajudar a rastrear os hábitos.
+* Funções
+* Condicionais
 
-- [Visite o projeto online] (https://helen-andrade.github.io/nlw-setup/)
+# Como utilizar
 
-## 🔖 Layout
+1- Clone o projeto
+`git@github.com:helen-andrade/nlw-setup.git`
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+2- Instale as dependências
+`npm i`
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+3- Rode o script de desenvolvimento
+`npm run dev`
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+<div align="center">
+    <p style="font-size: 20px;">Feito com ♡ por Helen Andrade</p>
+</div>
